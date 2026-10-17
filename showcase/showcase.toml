@@ -1,0 +1,11 @@
+[[media]]
+file = "dive.json.gz"
+name = "Light draws the hunters"
+
+[[media]]
+file = "dive.png"
+name = "A flare splits the dark"
+
+[[media]]
+file = "title.png"
+name = "A little light, a deep dark"
